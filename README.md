@@ -7,6 +7,7 @@ Calculadora usando javascript feita no segundo módulo da ETEC
 - HTML
 - CSS
 - JAVASCRIPT
+- Vanilla Tilt
  
  ## Sobre a calculadora
  
